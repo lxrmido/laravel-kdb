@@ -1,0 +1,27 @@
+{
+    "name": "lmo/laravel-kdb",
+    "autoload": {
+        "psr-4": {
+            "Lmo\\LaravelKdb\\": "src/"
+        },
+        "files": [
+            
+        ]
+    },
+    "authors": [
+        {
+            "name": "lxrmido",
+            "email": "lxrmido@lxrmido.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0-dev"
+        },
+        "laravel": {
+            "providers": [
+                "Lmo\\LaravelKdb\\KingbaseServiceProvider"
+            ]
+        }
+    }
+}
