@@ -1,5 +1,5 @@
 ## Intro
-KingbaseES driver implement for Laravel
+KingbaseES driver implementation for Laravel
 
 ## Install
 
